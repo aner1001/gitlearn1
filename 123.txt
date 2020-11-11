@@ -9,3 +9,6 @@ diff
 
 sourcetree
 modify by chrome
+
+
+忽略配置文件。
